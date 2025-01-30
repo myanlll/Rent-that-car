@@ -45,7 +45,7 @@ This project is a desktop application designed to digitize and manage vehicle re
 - **Rental Operations**: Date-based rentals, extension, and return tracking.
 - **Reporting**: Real-time overview of active rentals and history.
 
-## Technologies 🛠
+## Technologies 
 - **Python 3.9+**: Core programming language.
 - **PySide6**: GUI development.
 - **MySQL**: Database management.
